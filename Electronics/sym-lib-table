@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32_NODEMCU")(type "KiCad")(uri "${KIPRJMOD}/Symbols/ESP32_NODEMCU/ESP32_NODEMCU.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-CAM")(type "KiCad")(uri "${KIPRJMOD}/Symbols/ESP32-CAM/ESP32-CAM.kicad_sym")(options "")(descr ""))
+  (lib (name "HC-SR04")(type "KiCad")(uri "${KIPRJMOD}/Symbols/HC-SR04/HC-SR04.kicad_sym")(options "")(descr ""))
+)
